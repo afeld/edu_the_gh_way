@@ -3,6 +3,13 @@
   font-size: 50px;
 }
 
+.reveal hr {
+  background-color: #26351C;
+  border: none;
+  height: 2px;
+  margin: 60px 0;
+}
+
 .reveal li {
   font-size: 1.8em;
   line-height: 1.1;

@@ -16,7 +16,17 @@
   margin-bottom: 0.3em;
 }
 
-.attribution {
+.reveal .attribution {
   /* TODO figure out how to display at the bottom of the page */
   display: none;
+}
+
+.reveal .overlay {
+  color: #fff;
+  /* http://css-tricks.com/adding-stroke-to-web-text/ */
+  text-shadow:
+    -4px -4px 0 #000,
+    4px -4px 0 #000,
+    -4px 4px 0 #000,
+    4px 4px 0 #000;
 }

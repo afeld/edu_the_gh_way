@@ -3,6 +3,10 @@
   font-size: 50px;
 }
 
+.reveal h1 {
+  line-height: 1.1;
+}
+
 .reveal hr {
   background-color: #26351C;
   border: none;
